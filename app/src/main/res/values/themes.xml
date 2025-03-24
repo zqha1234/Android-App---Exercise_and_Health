@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Qiuhao_Zheng_MyRuns5" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Qiuhao_Zheng_MyRuns5" parent="Base.Theme.Qiuhao_Zheng_MyRuns5" />
+</resources>
